@@ -32,7 +32,7 @@ Como as informações dos produtos são armazenadas em uma estrutura de dados "P
 O projeto atual deve ser baixado do GitHub e o arquivo .C deve ser executado em um compilador, recomendado o uso de “CLion”, onde após o arquivo ser aberto só restará apertar o botão “Run” no canto superior direito.
 
 
-## 🛠️ Tecnologia usada
+## 👩‍💻 Tecnologia usada
 
 * Linguagem C.
 
