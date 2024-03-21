@@ -1,4 +1,4 @@
-# ProjetoSupermercado
+## Projeto - Supermercado
 
 O objetivo do código é fornecer uma solução simples e fácil de usar para gerenciar um estoque de produtos. Ele permite adicionar produtos, alterar preços, verificar o estoque de um produto e listar todos os produtos disponíveis no estoque. Além disso, o programa encerra a execução quando o usuário seleciona a opção 'Sair'.
 
